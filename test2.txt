@@ -1,0 +1,1 @@
+i am testing git and setting username password for git of github
